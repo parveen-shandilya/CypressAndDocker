@@ -1,0 +1,7 @@
+node_modules/
+demo.cy.js
+screenshots/
+videos/
+reports/
+.idea/
+downloads/

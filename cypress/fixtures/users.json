@@ -1,0 +1,14 @@
+{ 
+  "superUser": {
+    "email": "shubham.mehta@caeliusconsulting.com",
+    "password": "Test@123"
+  },
+  "admin": {
+    "email": "aaaaaaaaaaa@test.com",
+    "password": "aaaaaaaa"
+  },
+  "ITUser":{
+    "email":"asset-it@caeliusconsulting.com",
+    "password":"Tes@123"
+  }
+}
